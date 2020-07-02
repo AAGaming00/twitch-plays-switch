@@ -1,5 +1,5 @@
 twitchio
-joycontrol
+git+git://github.com/mart1nro/joycontrol.git#egg=joycontrol
 aioconsole
 contextlib
 logging
