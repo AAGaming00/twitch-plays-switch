@@ -19,8 +19,6 @@ from joycontrol.server import create_hid_server
 from twitchio.ext import commands
 from secretsio import TMI_TOKEN, CLIENT_ID, BOT_NICK, CHANNEL
 
-import numpy
-
 
 #@client.event
 #async def on_ready():
