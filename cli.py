@@ -30,7 +30,6 @@ logger = logging.getLogger(__name__)
 bot = commands.Bot(
 # set up the bot
 irc_token=TMI_TOKEN,
-client_id=CLIENT_ID,
 nick=BOT_NICK,
 initial_channels=[CHANNEL],
 prefix="!"
