@@ -3,7 +3,7 @@ A python script to let twitch chat control your Nintendo Switch.
 And yes, I know the code is terrible.
 I'll add instructions later
 **Only works on Linux.**
-#Instructions
+# Instructions
 Install the dependancies
 Create a file named ``secretsio.py``
 In it put the following:
