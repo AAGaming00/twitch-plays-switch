@@ -1,10 +1,13 @@
 # twitch-plays-switch
 A python script to let twitch chat control your Nintendo Switch.
 And yes, I know the code is terrible.
-I'll add instructions later
 **Only works on Linux.**
+
+
 # Instructions
-Install the dependancies
+Install the dependencies:
+Run the following:
+    sudo pip3 install -r requirements.txt
 Create a file named ``secretsio.py``
 In it put the following:
 
