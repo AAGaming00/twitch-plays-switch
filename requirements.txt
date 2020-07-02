@@ -1,0 +1,8 @@
+twitchio
+joycontrol
+aioconsole
+contextlib
+logging
+asyncio
+argparse
+numpy
