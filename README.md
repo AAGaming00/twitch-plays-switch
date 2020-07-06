@@ -14,7 +14,7 @@ In it put the following:
 
     TMI_TOKEN="oauth:your bot token"
     CHANNEL="your twitch channel"
-    BOT_NICK"your bots name
+    BOT_NICK"your bots name"
 The bot account cannot be the same as the streamer.
 Then, mod the bot on your channel
 On the switch, go to change grip/order
