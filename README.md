@@ -7,6 +7,7 @@ And yes, I know the code is terrible.
 # Instructions
 Install the dependencies:
 Run the following:
+    
     sudo pip3 install -r requirements.txt
 Create a file named ``secretsio.py``
 In it put the following:
