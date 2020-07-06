@@ -17,7 +17,7 @@ from joycontrol.protocol import controller_protocol_factory
 from joycontrol.server import create_hid_server
 
 from twitchio.ext import commands
-from secretsio import TMI_TOKEN, CLIENT_ID, BOT_NICK, CHANNEL
+from secretsio import TMI_TOKEN, BOT_NICK, CHANNEL
 
 
 #@client.event
