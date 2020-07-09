@@ -1,6 +1,6 @@
 # twitch-plays-switch
 A python script to let twitch chat control your Nintendo Switch.
-And yes, I know the code is pertty janky.
+Also the code is pertty janky.
 **Only works on Linux.**
 
 
