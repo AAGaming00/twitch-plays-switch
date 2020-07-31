@@ -1,6 +1,6 @@
 # twitch-plays-switch
 A python script to let twitch chat control your Nintendo Switch.
-Also the code is pretty janky.
+The code is pretty janky.
 **Only works on Linux.**
 
 
@@ -14,7 +14,7 @@ In it put the following:
 
     TMI_TOKEN="oauth:your bot token"
     CHANNEL="your twitch channel"
-    BOT_NICK="your bots name"
+    BOT_NICK="your bot's name"
 The bot account cannot be the same as the streamer.
 Then, mod the bot on your channel
 On the switch, go to change grip/order
